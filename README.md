@@ -1,13 +1,14 @@
 # 🔗 Project Links
 
 **GitHub Repository:**  
-https://github.com/pro-coder7/upi-excel-dashboard
+https://github.com/pro-coder7/upi-excel-dashboard.git
 
 **Excel Dashboard:**  
 https://docs.google.com/spreadsheets/d/1AftO36b4CUWucLkwL12E_c-9gTAnCr2f/edit?usp=drive_link&ouid=106864234829090533893&rtpof=true&sd=true
 
 **LinkedIn:**  
-YOUR_LINKEDIN_LINK_HERE
+www.linkedin.com/in/sanchitgawande
+
 
 
 # UPI Transaction Analysis Dashboard 📊
